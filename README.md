@@ -3,6 +3,7 @@ Real world example of MERN (Mongo + Express + React + Nodejs). It contains compl
  - api on node server
  - ui in react
  - db in mongo
+All basic examples of read and insert operations in db using node are added
 
 ## Dependencies
  - Node js 14 or above

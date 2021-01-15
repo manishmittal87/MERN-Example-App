@@ -32,4 +32,4 @@ jobs:
         app-name: 'mernexampleapp'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_b2e3ea939ece4de7aa2d998fc44442ee }}
-        package: .
+        package: ./api
